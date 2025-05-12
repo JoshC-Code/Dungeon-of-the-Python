@@ -677,4 +677,4 @@ while gameRunning:
 
     if not playerAlive:
         game_over()
-    clear()
+    #clear()
